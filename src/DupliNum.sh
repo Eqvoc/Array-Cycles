@@ -1,0 +1,1 @@
+javac AnyNumber.java && java AnyNumber
