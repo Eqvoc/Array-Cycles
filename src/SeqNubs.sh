@@ -1,0 +1,1 @@
+javac SeqNubs.java && java SeqNubs
