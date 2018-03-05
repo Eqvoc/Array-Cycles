@@ -1,0 +1,1 @@
+javac NumArray.java && java NumArray
