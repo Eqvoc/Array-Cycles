@@ -1,0 +1,1 @@
+javac ReversArray.java && java ReversArray
